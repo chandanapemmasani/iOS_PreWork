@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EA89397426B3776E00E962D8 /* icons8-tips-100.png in Resources */ = {isa = PBXBuildFile; fileRef = EA89397326B3776E00E962D8 /* icons8-tips-100.png */; };
-		EA89397926B3790C00E962D8 /* Hnet.com-image.png in Resources */ = {isa = PBXBuildFile; fileRef = EA89397826B3790C00E962D8 /* Hnet.com-image.png */; };
+		EA89399A26B5F44C00E962D8 /* Hnet.com-image1.png in Resources */ = {isa = PBXBuildFile; fileRef = EA89399926B5F44C00E962D8 /* Hnet.com-image1.png */; };
 		EA9188B226A14A1600B56362 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9188B126A14A1600B56362 /* SettingsViewController.swift */; };
 		EA9D648D2697D38E00F6C13E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D648C2697D38E00F6C13E /* AppDelegate.swift */; };
 		EA9D648F2697D38E00F6C13E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9D648E2697D38E00F6C13E /* SceneDelegate.swift */; };
@@ -39,8 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EA89397326B3776E00E962D8 /* icons8-tips-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-tips-100.png"; path = "../../../../Downloads/icons8-tips-100.png"; sourceTree = "<group>"; };
-		EA89397826B3790C00E962D8 /* Hnet.com-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Hnet.com-image.png"; path = "../../../../Downloads/Hnet.com-image.png"; sourceTree = "<group>"; };
+		EA89399926B5F44C00E962D8 /* Hnet.com-image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hnet.com-image1.png"; sourceTree = "<group>"; };
 		EA9188B126A14A1600B56362 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = SOURCE_ROOT; };
 		EA9D64892697D38E00F6C13E /* Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA9D648C2697D38E00F6C13E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +105,7 @@
 		EA9D648B2697D38E00F6C13E /* Prework */ = {
 			isa = PBXGroup;
 			children = (
+				EA89399926B5F44C00E962D8 /* Hnet.com-image1.png */,
 				EA9D648C2697D38E00F6C13E /* AppDelegate.swift */,
 				EA9D648E2697D38E00F6C13E /* SceneDelegate.swift */,
 				EA9D64902697D38E00F6C13E /* ViewController.swift */,
@@ -115,8 +114,6 @@
 				EA9D64982697D39600F6C13E /* Assets.xcassets */,
 				EA9D649A2697D39600F6C13E /* LaunchScreen.storyboard */,
 				EA9D649D2697D39600F6C13E /* Info.plist */,
-				EA89397826B3790C00E962D8 /* Hnet.com-image.png */,
-				EA89397326B3776E00E962D8 /* icons8-tips-100.png */,
 				EA9D64952697D38E00F6C13E /* Prework.xcdatamodeld */,
 			);
 			path = Prework;
@@ -244,10 +241,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA9D649C2697D39600F6C13E /* LaunchScreen.storyboard in Resources */,
-				EA89397426B3776E00E962D8 /* icons8-tips-100.png in Resources */,
 				EA9D64992697D39600F6C13E /* Assets.xcassets in Resources */,
 				EA9D64942697D38E00F6C13E /* Main.storyboard in Resources */,
-				EA89397926B3790C00E962D8 /* Hnet.com-image.png in Resources */,
+				EA89399A26B5F44C00E962D8 /* Hnet.com-image1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
